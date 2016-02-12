@@ -50,13 +50,15 @@ section {
     background-image: none;
     border: 0;
     border-radius: 0;
-    margin: 50px 0;
+    margin: 10px 0 50px 0;
 }
 
 .bordered {
     margin: 20px;
     background: #fff;
+    padding-bottom: 20px;
 }
+
 
 .jumbotron {
     background: #fff;
@@ -67,7 +69,9 @@ section {
     border: 0;
 }
 
-
+footer {
+    font-size: 80%;
+}
 
 
 
