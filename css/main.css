@@ -29,6 +29,9 @@ section {
     padding-bottom: 30px;
     padding-top: 30px;
 }
+.intro {
+    padding: 20px 0 50px 0;
+}
 
 .jumbotron h1 {
     font-size: 50px;
