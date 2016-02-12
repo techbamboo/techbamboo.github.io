@@ -12,6 +12,14 @@ section {
     min-height: 400px;
 }
 
+.navbar-brand {
+    display: block;
+    text-indent: -9999px;
+    background: url('../img/logo.jpg') no-repeat;
+    width: 150px;
+    height: 100px;
+    margin-top: 20px;
+}
 .title {
     font-weight: 300;
     text-transform: uppercase;
