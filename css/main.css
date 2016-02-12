@@ -41,6 +41,10 @@ section {
     font-size: 100%;
 }
 
+#hero img {
+     width: 70%;
+}
+
 .bordered {
     margin: 20px;
     background: #fff;
