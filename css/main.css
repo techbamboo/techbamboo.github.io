@@ -16,7 +16,8 @@ section {
     font-weight: 300;
     text-transform: uppercase;
     letter-spacing: 8px;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
+    padding-top: 30px;
 }
 
 .jumbotron h1 {
